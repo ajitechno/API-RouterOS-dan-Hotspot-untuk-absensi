@@ -1,4 +1,4 @@
-# API-RouterOS-dan-Hotspot-untuk-absensi (versi ini sedang dalam tahap pengembangan)
+# API-RouterOS-dan-Hotspot-untuk-absensi v.1
 Gateway Absensi adalah aplikasi yang bertujuan untuk merekap data kehadiran absensi mahasiswa/i. 
 rekap data ini dibuat dengan menggunakan data dari Mikrotik RouterOS melalui layanan API, dan di kombinasikan dengan autentikasi hotspot sebagai data kehadiran mahasiswa/i.
 
